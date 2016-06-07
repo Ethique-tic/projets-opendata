@@ -131,6 +131,16 @@ padding: 0px  0px;
 .footer a {
 	color:#2FE6DE;;
 }
+
+.btn-primary{
+	width: 100%;
+
+}
+.hider{
+	width: auto;
+
+}
+
 .texte-ipsum{
 	/*background-color:#18F2B2; */
 	background-color:#e9e9e9;
